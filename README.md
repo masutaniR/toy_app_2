@@ -1,24 +1,15 @@
-# README
+# Ruby on Rails Tutorial
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## toy_app
 
-Things you may want to cover:
+URL：https://toy-app-mstn.herokuapp.com/
 
-* Ruby version
+## 開発環境
 
-* System dependencies
+- OS：Windows 10
 
-* Configuration
+- 言語：HTML, Ruby
 
-* Database creation
+- フレームワーク：Ruby on Rails
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- editor：Visual Studio Code
